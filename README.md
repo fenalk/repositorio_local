@@ -9,6 +9,4 @@
 2. Isseues
 3. Pull Request
 
-# Lista de Tarefa 
-[] Programar em Java
-[] Leitura Blockchain
+
